@@ -88,3 +88,10 @@ canvas {
     width: 300px;
     clip-path: circle();
 }
+
+.contact-button{
+    color: black;
+    background: green;
+    padding: 15px;
+
+}
